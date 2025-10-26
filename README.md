@@ -1,4 +1,4 @@
-#Server for Chrome-Extension (WorkOnPoint)
+# Server for Chrome-Extension (WorkOnPoint)
 
 Uses flask to connect with chrome-extension.
 
